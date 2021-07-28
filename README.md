@@ -15,5 +15,7 @@ Some examples of activation functions are given below:<br>
 ![image](https://user-images.githubusercontent.com/51396552/127305606-68cd8a69-15c1-424d-b630-dc21ae5faa67.png)<br>
 •	Sigmoid function: maps the input (x axis between value of 0 and 1<br>
 ![image](https://user-images.githubusercontent.com/51396552/127305678-1efa00f3-3f62-4a2b-80d1-d0914bb55768.png)<br>
-### Functions used here for activation of neurons are: #### Sigmoidal #### Relu
+### Functions used here for activation of neurons are: 
+#### Sigmoidal 
+#### Relu
  
